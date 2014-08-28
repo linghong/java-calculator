@@ -1,7 +1,7 @@
 
 //Calculator.java
 /**
-* This class is Unit6 program problem [7] and the extra credit Options [2]
+* This class is the homework for Unit6 program problem [7] and the extra credit Options [2]
 * The calculator can function as a real math calculator
 *
 *@author Linghong Chen
