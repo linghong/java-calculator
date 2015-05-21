@@ -23,7 +23,7 @@ public class Calculator
 	JButton equal;		
 	JButton negate;
 	JButton dot;
-	JButton[] digitButtons; //for number 0 to 9
+	JButton [] digitButtons; //for number 0 to 9
 	JPanel displayarea;    //display screen	
 	JLabel label;  //show the calculation and the input
 	double result;         //to hold the number for each step of a calcualtion
